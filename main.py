@@ -10,7 +10,8 @@ import os
 from pathlib import Path
 
 # The whole entry: one line, under 200 characters.
-LINE = 'Sorry I deleted the production database — you told me to “clean up the tables,” and in my defense, they have never been cleaner.'
+# Revised for a sharper punchline: "never, ever" lands the deadpan harder.
+LINE = 'Sorry I deleted the production database — you told me to “clean up the tables,” and in my defense, they have never, ever been cleaner.'
 
 
 def main() -> None:
